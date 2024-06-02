@@ -1,1 +1,42 @@
 /*  your css code here. If applicable */
+/*  your css code here. If applicable */
+#box{
+	border:2px solid black;
+	border-radius: 10px;
+	text-align:center;
+}
+#verification_subtext{
+	font-size:9px;
+	margin-bottom:40px
+}
+.code{
+	padding-left:15px;
+	margin:0;
+	width:50px;
+	height:50px;
+	font-size:30px;
+	text-align:center;
+	color:gray;
+	border-color:none;
+	border-opacity: 0.7;
+	border-color:#eaeaea;
+}
+.code-container{
+	display:flex;
+	justify-content:center;
+	padding: 30px;
+	
+}
+.disclaimer{
+	font-size:8px;
+	width:40%;
+	background-color:#d8c2c2;
+	padding:5px;
+	border-radius:3px;
+	margin-top:30px;
+	margin-bottom:20px;
+}
+.dbox{
+	display:flex;
+	justify-content:center;
+}
